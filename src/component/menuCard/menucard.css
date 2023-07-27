@@ -1,0 +1,30 @@
+.cardMenu{
+    display: flex;
+    justify-content:space-between;
+    border-bottom: solid 1px ;
+
+}
+
+.cardMenu .imageOverview{
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+
+}
+
+.cardMenu .addProduct .input_quantity{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: center;
+}
+
+.cardMenu .addProduct{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+
+}
+
